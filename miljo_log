@@ -1,0 +1,209 @@
+INFO [2024-12-05 20:55:25] Fetching data from all URL's
+INFO [2024-12-05 20:55:25] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-05 20:55:26] GET request returned status code: 200
+INFO [2024-12-05 20:55:27] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-05 20:55:28] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-05 20:55:28] GET request returned status code: 200
+INFO [2024-12-05 20:55:30] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-05 20:55:30] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-05 20:55:30] GET request returned status code: 200
+INFO [2024-12-05 20:55:31] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-05 20:55:31] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-05 20:55:32] GET request returned status code: 200
+INFO [2024-12-05 20:55:33] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-05 20:55:33] Data hentet
+INFO [2024-12-05 20:55:33] Opretter forbindelse til database
+INFO [2024-12-05 20:55:34] Opdaterer databasen med 58 nye rækker
+INFO [2024-12-05 21:47:19] Fetching data from all URL's
+INFO [2024-12-05 21:47:19] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-05 21:47:19] GET request returned status code: 200
+INFO [2024-12-05 21:47:21] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-05 21:47:21] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-05 21:47:21] GET request returned status code: 200
+INFO [2024-12-05 21:47:22] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-05 21:47:22] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-05 21:47:23] GET request returned status code: 200
+INFO [2024-12-05 21:47:24] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-05 21:47:24] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-05 21:47:24] GET request returned status code: 200
+INFO [2024-12-05 21:47:25] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-05 21:47:26] Data hentet
+INFO [2024-12-05 21:47:26] Opretter forbindelse til database
+INFO [2024-12-05 21:47:26] Opdaterer databasen med 0 nye rækker
+INFO [2024-12-05 21:50:07] Fetching data from all URL's
+INFO [2024-12-05 21:50:07] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-05 21:50:08] GET request returned status code: 200
+INFO [2024-12-05 21:50:10] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-05 21:50:11] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-05 21:50:11] GET request returned status code: 200
+INFO [2024-12-05 21:50:12] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-05 21:50:13] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-05 21:50:13] GET request returned status code: 200
+INFO [2024-12-05 21:50:14] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-05 21:50:15] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-05 21:50:15] GET request returned status code: 200
+INFO [2024-12-05 21:50:17] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-05 21:50:19] Data hentet
+INFO [2024-12-05 21:50:19] Opretter forbindelse til database
+INFO [2024-12-05 21:50:20] Opdaterer databasen med 0 nye rækker
+INFO [2024-12-06 00:00:08] Fetching data from all URL's
+INFO [2024-12-06 00:00:09] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-06 00:00:10] GET request returned status code: 200
+INFO [2024-12-06 00:00:12] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-06 00:00:14] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-06 00:00:14] GET request returned status code: 200
+INFO [2024-12-06 00:00:15] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-06 00:00:17] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-06 00:00:17] GET request returned status code: 200
+INFO [2024-12-06 00:00:19] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-06 00:00:20] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-06 00:00:20] GET request returned status code: 200
+INFO [2024-12-06 00:00:22] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-06 00:00:24] Data hentet
+INFO [2024-12-06 00:00:25] Opretter forbindelse til database
+INFO [2024-12-06 00:00:26] Opdaterer databasen med 2 nye rækker
+INFO [2024-12-07 00:00:15] Fetching data from all URL's
+INFO [2024-12-07 00:00:15] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-07 00:00:16] GET request returned status code: 200
+INFO [2024-12-07 00:00:18] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-07 00:00:19] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-07 00:00:19] GET request returned status code: 200
+INFO [2024-12-07 00:00:20] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-07 00:00:20] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-07 00:00:21] GET request returned status code: 200
+INFO [2024-12-07 00:00:22] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-07 00:00:23] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-07 00:00:24] GET request returned status code: 200
+INFO [2024-12-07 00:00:25] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-07 00:00:27] Data hentet
+INFO [2024-12-07 00:00:27] Opretter forbindelse til database
+INFO [2024-12-07 00:00:27] Opdaterer databasen med 24 nye rækker
+INFO [2024-12-08 00:00:21] Fetching data from all URL's
+INFO [2024-12-08 00:00:21] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-08 00:00:23] GET request returned status code: 200
+INFO [2024-12-08 00:00:28] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-08 00:00:34] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-08 00:00:34] GET request returned status code: 200
+INFO [2024-12-08 00:00:35] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-08 00:00:40] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-08 00:00:40] GET request returned status code: 200
+INFO [2024-12-08 00:00:42] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-08 00:00:44] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-08 00:00:44] GET request returned status code: 200
+INFO [2024-12-08 00:00:46] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-08 00:00:49] Data hentet
+INFO [2024-12-08 00:00:50] Opretter forbindelse til database
+INFO [2024-12-08 00:00:51] Opdaterer databasen med 24 nye rækker
+INFO [2024-12-09 00:00:15] Fetching data from all URL's
+INFO [2024-12-09 00:00:15] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-09 00:00:17] GET request returned status code: 200
+INFO [2024-12-09 00:00:25] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-09 00:00:25] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-09 00:00:26] GET request returned status code: 200
+INFO [2024-12-09 00:00:28] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-09 00:00:30] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-09 00:00:30] GET request returned status code: 200
+INFO [2024-12-09 00:00:32] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-09 00:00:33] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-09 00:00:33] GET request returned status code: 200
+INFO [2024-12-09 00:00:34] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-09 00:00:36] Data hentet
+INFO [2024-12-09 00:00:37] Opretter forbindelse til database
+INFO [2024-12-09 00:00:37] Opdaterer databasen med 24 nye rækker
+INFO [2024-12-10 00:00:18] Fetching data from all URL's
+INFO [2024-12-10 00:00:18] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 00:00:20] GET request returned status code: 200
+INFO [2024-12-10 00:00:25] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 00:00:33] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 00:00:34] GET request returned status code: 200
+INFO [2024-12-10 00:00:35] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 00:00:40] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 00:00:40] GET request returned status code: 200
+INFO [2024-12-10 00:00:42] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 00:00:42] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 00:00:42] GET request returned status code: 200
+INFO [2024-12-10 00:00:44] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 00:00:47] Data hentet
+INFO [2024-12-10 00:00:48] Opretter forbindelse til database
+INFO [2024-12-10 00:00:50] Opdaterer databasen med 24 nye rækker
+INFO [2024-12-10 13:21:38] Fetching data from all URL's
+INFO [2024-12-10 13:21:39] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:21:40] GET request returned status code: 200
+INFO [2024-12-10 13:21:43] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:21:43] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:21:43] GET request returned status code: 200
+INFO [2024-12-10 13:21:45] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:21:45] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:21:46] GET request returned status code: 200
+INFO [2024-12-10 13:21:51] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:21:51] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:21:52] GET request returned status code: 200
+INFO [2024-12-10 13:21:54] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:21:54] Data hentet
+INFO [2024-12-10 13:21:54] Opretter forbindelse til database
+INFO [2024-12-10 13:21:55] Opdaterer databasen med 9 nye rækker
+INFO [2024-12-10 13:24:38] Fetching data from all URL's
+INFO [2024-12-10 13:24:38] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:24:39] GET request returned status code: 200
+INFO [2024-12-10 13:24:40] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:24:41] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:24:41] GET request returned status code: 200
+INFO [2024-12-10 13:24:42] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:24:42] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:24:42] GET request returned status code: 200
+INFO [2024-12-10 13:24:44] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:24:44] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:24:44] GET request returned status code: 200
+INFO [2024-12-10 13:24:46] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:24:46] Data hentet
+INFO [2024-12-10 13:24:46] Opretter forbindelse til database
+INFO [2024-12-10 13:24:46] Opdaterer databasen med 0 nye rækker
+INFO [2024-12-10 13:39:41] Fetching data from all URL's
+INFO [2024-12-10 13:39:41] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:39:41] GET request returned status code: 200
+INFO [2024-12-10 13:39:43] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:39:43] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:39:43] GET request returned status code: 200
+INFO [2024-12-10 13:39:44] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:39:45] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:39:45] GET request returned status code: 200
+INFO [2024-12-10 13:39:46] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:39:46] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:39:47] GET request returned status code: 200
+INFO [2024-12-10 13:39:48] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:39:48] Data hentet
+INFO [2024-12-10 13:39:48] Opretter forbindelse til database
+INFO [2024-12-10 13:39:49] Opdaterer databasen med 0 nye rækker
+INFO [2024-12-10 13:44:26] Fetching data from all URL's
+INFO [2024-12-10 13:44:26] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:44:27] GET request returned status code: 200
+INFO [2024-12-10 13:44:34] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:44:34] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:44:34] GET request returned status code: 200
+INFO [2024-12-10 13:44:35] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:44:36] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:44:36] GET request returned status code: 200
+INFO [2024-12-10 13:44:37] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:44:37] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:44:38] GET request returned status code: 200
+INFO [2024-12-10 13:44:39] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:44:39] Data hentet
+INFO [2024-12-10 13:44:39] Opretter forbindelse til database
+INFO [2024-12-10 13:44:40] Opdaterer databasen med 0 nye rækker
+INFO [2024-12-10 13:50:12] Fetching data from all URL's
+INFO [2024-12-10 13:50:12] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:50:12] GET request returned status code: 200
+INFO [2024-12-10 13:50:14] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Copenhagen/HCAB
+INFO [2024-12-10 13:50:14] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:50:15] GET request returned status code: 200
+INFO [2024-12-10 13:50:16] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/ANHO
+INFO [2024-12-10 13:50:17] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:50:17] GET request returned status code: 200
+INFO [2024-12-10 13:50:18] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Aarhus/AARH3
+INFO [2024-12-10 13:50:18] Fetching data from URL: https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:50:18] GET request returned status code: 200
+INFO [2024-12-10 13:50:20] POST request successful for https://envs2.au.dk/Luftdata/Presentation/table/Rural/RISOE
+INFO [2024-12-10 13:50:20] Data hentet
+INFO [2024-12-10 13:50:20] Opretter forbindelse til database
+INFO [2024-12-10 13:50:20] Opdaterer databasen med 0 nye rækker
+
