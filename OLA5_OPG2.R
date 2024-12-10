@@ -160,7 +160,7 @@ log_info(paste0("Opdaterer databasen med ", nrow(hcab_new), " nye rækker"))
 dbWriteTable(con, "hcab", hcab_new, append = T)
 dbWriteTable(con, "anho", anho_new, append = T)
 dbWriteTable(con, "risoe", risoe_new, append = T)
-dbWriteTable(con, "aarhus", aarh3_new, append = T)
+dbWriteTable(con, "aarh3", aarh3_new, append = T)
 
 ## Disconnect
 dbDisconnect(con)
